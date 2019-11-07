@@ -1,0 +1,19 @@
+root
+ash, pikachu, rock, voldemort, harry, sparrow, hawk, puffin
+root/cs302
+root/cs302/h1
+root/cs302/h1/h1.txt hi
+root/cs367
+root/cs367/h1
+root/cs367/h1/h1.txt hello
+root/cs367/h1/soln.txt solved!!!
+root/cs367/p1
+root/cs367/p1/ques.txt It is difficult
+root/aperture
+root/aperture/arp.rtf f8
+root/cs302/p4
+root/cs302/p4/wrtup.txt program4!!
+root/bird/robin
+root/bird/robin/finch.txt finch finch
+root/bird/mallard
+root/bird/mallard/quack.txt quack quack

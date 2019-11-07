@@ -1,0 +1,205 @@
+[anon@reddit]$ 
+Invalid command!
+[anon@reddit]$ a
+Invalid command!
+[anon@reddit]$ l
+No user logged in.
+[anon@reddit]$ l kramer
+User kramer not found.
+[anon@reddit]$ l admin
+User admin logged in.
+[admin@reddit]$ s
+admin	0	0
+archer	4	2
+cartman	4	4
+deadpool	4	6
+[admin@reddit]$ l
+User admin logged out.
+[anon@reddit]$ l archer
+User archer logged in.
+[archer@reddit]$ f
+Displaying the front page...
+2	Phrasing!
+[archer@reddit]$ q
+Invalid command!
+2	Phrasing!
+[archer@reddit]$ a
+2	Cry havoc and let slip the hogs of war.
+[archer@reddit]$ z
+2	I drank the chocolate milk mix and replaced it with kitty litter.
+[archer@reddit]$ a
+2	Guess what I have sitting in my backyard?
+[archer@reddit]$ z
+2	I knew you'd look.
+[archer@reddit]$ j
+No posts left to display.
+Exiting to the main menu...
+[archer@reddit]$ f
+Displaying the front page...
+0	Phrasing!
+[archer@reddit]$ a
+-1	Cry havoc and let slip the hogs of war.
+[archer@reddit]$ a
+2	I knew you'd look.
+[archer@reddit]$ j
+No posts left to display.
+Exiting to the main menu...
+[archer@reddit]$ f
+Displaying the front page...
+2	Phrasing!
+[archer@reddit]$ j
+2	Cry havoc and let slip the hogs of war.
+[archer@reddit]$ a
+2	I knew you'd look.
+[archer@reddit]$ x
+Exiting to the main menu...
+[archer@reddit]$ l
+User archer logged out.
+[anon@reddit]$ l admin
+User admin logged in.
+[admin@reddit]$ s
+admin	0	0
+archer	2	2
+cartman	6	3
+deadpool	4	6
+[admin@reddit]$ l
+User admin logged out.
+[anon@reddit]$ f
+Displaying the front page...
+2	Phrasing!
+[anon@reddit]$ a
+Login to like post.
+2	Phrasing!
+[anon@reddit]$ z
+Login to dislike post.
+2	Phrasing!
+[anon@reddit]$ j
+0	Cry havoc and let slip the hogs of war.
+[anon@reddit]$ j
+2	Idiots doing idiot things, because they're idiots.
+[anon@reddit]$ x
+Exiting to the main menu...
+[anon@reddit]$ r birdswitharm
+Displaying /r/birdswitharm...
+No posts left to display.
+Exiting to the main menu...
+[anon@reddit]$ r birdswitharms
+Displaying /r/birdswitharms...
+0	Cry havoc and let slip the hogs of war.
+[anon@reddit]$ j
+2	I knew you'd look.
+[anon@reddit]$ j
+No posts left to display.
+Exiting to the main menu...
+[anon@reddit]$ u cartman
+Displaying /u/cartman...
+4	I drank the chocolate milk mix and replaced it with kitty litter.
+[anon@reddit]$ j
+1	Guess what I have sitting in my backyard?
+[anon@reddit]$ j
+2	Respect my authoritah!
+[anon@reddit]$ j
+2	Casa Bonita is my favorite place in the whole world.
+[anon@reddit]$ j
+2	Camera crews are setting up, and I'm looking totally ripped. Beefcake! Beefcake!
+[anon@reddit]$ j
+No posts left to display.
+Exiting to the main menu...
+[anon@reddit]$ l archer
+User archer logged in.
+[archer@reddit]$ u cartman
+Displaying /u/cartman...
+4	I drank the chocolate milk mix and replaced it with kitty litter.
+[archer@reddit]$ j
+1	Guess what I have sitting in my backyard?
+[archer@reddit]$ j
+2	Respect my authoritah!
+[archer@reddit]$ j
+2	Casa Bonita is my favorite place in the whole world.
+[archer@reddit]$ j
+2	Camera crews are setting up, and I'm looking totally ripped. Beefcake! Beefcake!
+[archer@reddit]$ j
+No posts left to display.
+Exiting to the main menu...
+[archer@reddit]$ r birdswitharms
+Displaying /r/birdswitharms...
+0	Cry havoc and let slip the hogs of war.
+[archer@reddit]$ j
+2	I knew you'd look.
+[archer@reddit]$ j
+No posts left to display.
+Exiting to the main menu...
+[archer@reddit]$ f
+Displaying the front page...
+2	Phrasing!
+[archer@reddit]$ j
+0	Cry havoc and let slip the hogs of war.
+[archer@reddit]$ j
+2	I knew you'd look.
+[archer@reddit]$ a
+No posts left to display.
+Exiting to the main menu...
+[archer@reddit]$ r birdswitharms
+Displaying /r/birdswitharms...
+0	Cry havoc and let slip the hogs of war.
+[archer@reddit]$ j
+No posts left to display.
+Exiting to the main menu...
+[archer@reddit]$ l
+User archer logged out.
+[anon@reddit]$ s
+Invalid command!
+[anon@reddit]$ l admin
+User admin logged in.
+[admin@reddit]$ s
+admin	0	0
+archer	2	2
+cartman	6	3
+deadpool	4	8
+[admin@reddit]$ l
+User admin logged out.
+[anon@reddit]$ l deadpool
+User deadpool logged in.
+[deadpool@reddit]$ f
+Displaying the front page...
+2	Idiots doing idiot things, because they're idiots.
+[deadpool@reddit]$ j
+2	Respect my authoritah!
+[deadpool@reddit]$ x
+Exiting to the main menu...
+[deadpool@reddit]$ l
+User deadpool logged out.
+[anon@reddit]$ d cartman
+Invalid command!
+[anon@reddit]$ l admin
+User admin logged in.
+[admin@reddit]$ d archer
+User archer deleted.
+[admin@reddit]$ l deadpool
+User admin already logged in.
+[admin@reddit]$ l
+User admin logged out.
+[anon@reddit]$ l deadpoo
+User deadpoo not found.
+[anon@reddit]$ l deadpool
+User deadpool logged in.
+[deadpool@reddit]$ f
+Displaying the front page...
+2	Respect my authoritah!
+[deadpool@reddit]$ x
+Exiting to the main menu...
+[deadpool@reddit]$ l admin
+User deadpool already logged in.
+[deadpool@reddit]$ l kramer
+User deadpool already logged in.
+[deadpool@reddit]$ l
+User deadpool logged out.
+[anon@reddit]$ l admin
+User admin logged in.
+[admin@reddit]$ s
+admin	0	0
+cartman	4	4
+deadpool	4	6
+[admin@reddit]$ x
+Exiting to the real world...
+
